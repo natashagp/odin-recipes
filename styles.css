@@ -1,0 +1,14 @@
+* {
+    font-family: "Courier New", sans-serif;
+    background-color: rgb(243, 218, 211);
+}
+
+.title {
+    color: #5f5a7b;
+    font-size: 30px;
+}
+
+.recipe {
+    font-size: 15px;
+    color: hsl(248, 40%, 61%);
+}
